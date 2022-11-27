@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.doc {
+  cursor: pointer;
+}
+
+.doc:hover {
+  background-color: #f5f5f5;
+}
